@@ -6,7 +6,7 @@ Samantha Beilman
         Thank you for your time.
 
 Video Link:
-    TODO
+    https://www.youtube.com/watch?v=NWCZ5_PYDQQ
 
 To compile and run: 
     I use a conda environment, but you can use any python environment. 
