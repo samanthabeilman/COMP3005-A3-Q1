@@ -2,8 +2,8 @@
 import psycopg
 
 USER_NAME = "postgres"  # TA, please change this if needed for testing!
-PASSWORD = "Apollo8!!"  # TA, please change this if needed for testing!
-DB_NAME = "University2" # TA, please change this if needed for testing!
+PASSWORD = "PASSWORD"  # TA, please change this if needed for testing!
+DB_NAME = "DB_NAME" # TA, please change this if needed for testing!
 # ! NOTE remember to take your password out
 
 # Retrieves and displays all records from the students table.
