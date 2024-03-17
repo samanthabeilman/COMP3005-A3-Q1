@@ -5,11 +5,23 @@ Samantha Beilman
 
         Thank you for your time.
 
+Video Link:
+    TODO
+
+To compile and run: 
+    I use a conda environment, but you can use any python environment. 
+    ensure that you have installed:
+        psycopg3
+    
+    run from the CWD:
+        python main.py
+
 Important Notes:
     • If you need to test my submission, please change the constants for database name, username and password in a3q1.py to match your system
 
 Included Files:
-    a3q1.py             - the application code
+    main.py             - application code to drive the user interactions
+    a3q1.py             - the application code which solves the assignment
     a3q1-setup.sql      - file which will set up the database to be used by the application
     this README file
 
